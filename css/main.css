@@ -5,3 +5,10 @@
 body {
 	background-color: #f3f3f3;
 }
+.block {
+	width: 700px;
+	margin: 0 auto;
+}
+.block img {
+	width: 100%;
+}
